@@ -1,1 +1,1 @@
-This is a test that I'm doing to see if this works. typing new shit to see if git notices.
+This is a little repo for tracking my daily studying progress.
