@@ -1,0 +1,16 @@
+//Bahman 26th 1401
+
+//what I did today that made it worth it:
+    studied Python for a while to remind myself about the OOP aspect.
+    learned about git and got it set up on my system. (this is how you're reading this. yay!)
+    learned about ChatGPT and openAI in general.
+    had a great talk with Sahar. glad that she is my friends.
+    found a great course on Algorithm design.
+
+//what I did today that made tommorow worth it:
+    will start learning that Algorithm course.
+    will continue watching that python course.
+
+//what I want to do to make my tommorow:
+    will start studying the lectures starting tommorow.
+    will continue reading a book on the train.
