@@ -1,0 +1,41 @@
+//Bahman 29th 1401
+
+//What I did today that made it worth it:
+    1. learned python to a certain level that is enough for my classes.
+
+
+
+//What I did today that made tommorow worth it:
+
+
+
+//What I want to do to make my tommorow:
+
+
+
+
+
+-----------------------------------
+Specifics:
+    1.my python journey included:
+        OOP
+        Class Variables
+        Inheritance
+        MultiLevel Inheritance
+        Multiple Inheritance
+        Method Overriding
+        Method Chaining
+        Super Function
+        Abstract classes
+        Objects as an Arg
+        Duck Typing (if it runs like a duck, and if it flies like a duck, it's probably a duck)
+        Walrus Operator
+        Lambda (Half life lmao)
+        Sort
+        Map
+        Filter
+        reduce
+        list comprehensions
+        zip Functions
+    ## I need to start studying head first python to get a full grip on the language. ##
+
